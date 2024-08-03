@@ -12,5 +12,5 @@ Bypasses VMProtect VMWare &amp; VMWare Tools detection trough user-mode API hook
 # Before using VMHide
 ![image](https://github.com/user-attachments/assets/5ac70ef0-b0d2-4204-8699-802f49235954)
 
-# After using VMHiide
+# After using VMHide
 ![image](https://github.com/user-attachments/assets/1e525ae3-fca2-43e4-970c-c656077ea32b)
