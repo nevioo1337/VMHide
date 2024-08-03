@@ -1,5 +1,5 @@
 # VMHide
-Bypasses VMProtect's VMWare &amp; VMWare Tools detection trough user-mode API hooks. Works for version 3.5 since they didn't use direct syscalls prior to version 3.6+
+Bypasses VMProtect's VMWare &amp; VMWare Tools detection trough user-mode API hooks. Works for versions prior to 3.6 since they didn't use direct syscalls before
 
 ## Usage
 - Add **hypervisor.cpuid.v0 = "FALSE"** in your .vmx file
